@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sayanhaldar05@gmail.com**
 
-- ⚡ Fun fact **I am funny 🙃**
+- ⚡ Fun fact **Smile in pain 🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
