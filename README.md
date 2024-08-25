@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/HaldarSayan18/HaldarSayan18/main/sayanhaldar2.png" width="100%"/>
 <h1 align="center">Namaste 🙏, Myself Sayan Haldar</h1>
 <h3 align="center">A passionate Software Developer.</h3>
-<img align="right" alt="coding" width="400" height="350" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
+<img align="right" alt="coding" width="400" height="300" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haldarsayan18&label=Profile%20views&color=0e75b6&style=flat" alt="haldarsayan18" /> </p>
 
